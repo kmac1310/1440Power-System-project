@@ -1,0 +1,31 @@
+{
+  "name": "1440-power-system",
+  "version": "1.0.0",
+  "description": "A revolutionary time management system based on the 1440 minutes in a day",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.5.0",
+    "@radix-ui/react-slot": "^1.0.0",
+    "class-variance-authority": "^0.4.0",
+    "clsx": "^1.2.1",
+    "lucide-react": "^0.263.1",
+    "tailwind-merge": "^1.12.0",
+    "tailwindcss-animate": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.28",
+    "@types/react-dom": "^18.0.11",
+    "typescript": "^4.9.5",
+    "react-scripts": "5.0.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
